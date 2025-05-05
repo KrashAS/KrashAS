@@ -2,53 +2,27 @@
 I build things for the web — mostly with React, TypeScript, and Next.js.  
 Love clean UI, efficient state management, and solving weird frontend bugs.
 
-🧠 Languages & Core
+🧠 Languages & Core:
 
-<div align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,html,css,sass" />
-  </a>
-</div>
-<br>
-<p>
-⚛️ Frameworks & Libraries
-</p>
-<div align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,styledcomponents,bootstrap,graphql" />
-  </a>
-</div>
-<br>
-<p>
-🛠️ Tools & State Management
-</p>
-<div align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vite,webpack,eslint,prettier" />
-  </a>
-</div>
-<br>
-<p>
-🌐 API & Backend
-</p>
-<div align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,prisma,postgres" />
-  </a>
-</div>
-<br>
-<p>
-🧪 DevOps & Version Control
-</p>
-<div align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,githubactions" />
-  </a>
-</div>
-<br>
-<p>
+[![My Skills](https://skillicons.dev/icons?i=ts,js,html,css,sass&theme=dark)](https://skillicons.dev)
+
+⚛️ Frameworks & Libraries:
+
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,styledcomponents,bootstrap,graphql&theme=dark)](https://skillicons.dev)
+
+🛠️ Tools & State Management:
+
+[![My Skills](https://skillicons.dev/icons?i=vite,webpack&theme=dark)](https://skillicons.dev)
+
+🌐 API & Backend:
+
+[![My Skills](https://skillicons.dev/icons?i=docker,prisma,postgres&theme=dark)](https://skillicons.dev)
+
+🧪 DevOps & Version Control:
+
+[![My Skills](https://skillicons.dev/icons?i=git,github,githubactions&theme=dark)](https://skillicons.dev)
+
 🧩 Projects worth checking
-</p>
 
 - [Subjektiv.app](https://www.subjektiv.app) – platform where artists showcase and optionally sell their digital artworks via auction  
   🔹 Features: artist registration, custom UI, full CRUD for artworks, Stripe payments, delivery API integration  
