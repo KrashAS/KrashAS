@@ -59,9 +59,9 @@ Love clean UI, efficient state management, and solving weird frontend bugs.
   🔹 Role-based access, optimized forms, and API integration
 
 <br>
-<p>
+
 📫 Let's Connect
-</p>
+
 - 🌍 Kyiv, Ukraine   
 - 🔗 [LinkedIn](https://www.linkedin.com/in/andrii-krashennikov-6726001b4/)  
 
