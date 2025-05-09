@@ -8,7 +8,7 @@ Love clean UI, efficient state management, and solving weird frontend bugs.
 
 ⚛️ Frameworks & Libraries:
 
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,styledcomponents,bootstrap,graphql&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,styledcomponents,bootstrap,materialui,graphql,jquery&theme=dark)](https://skillicons.dev)
 
 🛠️ Tools & State Management:
 
